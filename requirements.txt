@@ -1,0 +1,22 @@
+langchain-community
+langchain
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-core
+langchain-openai
+pypdf==4.3.1
+transformers==4.44.2
+accelerate==0.34.2
+torch==2.4.1
+streamlit==1.38.0
+tiktoken==0.7.0
+python-dotenv
+streamlit
+docx2txt==0.8
+PyPDF2==3.0.1
+tiktoken
+# transformers
+# bitsandbytes
+# accelerator
+# PyPDF2
